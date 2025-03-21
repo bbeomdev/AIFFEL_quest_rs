@@ -1,5 +1,5 @@
 # AIFFEL_quest_rs
-''' bash
+``` bash
 tree -a -I ".git"
 
 AIFFEL_quest_rs
@@ -21,4 +21,5 @@ AIFFEL_quest_rs
 │   │   └── README.md
 │   └── README.md
 ├── README.md
-'''
+
+```
