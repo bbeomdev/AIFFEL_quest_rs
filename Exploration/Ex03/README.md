@@ -40,8 +40,8 @@
 - [O]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-      ![image](https://github.com/user-attachments/assets/bfcbd861-80d5-4589-bbc2-36b8f6d424d6)
+        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부   
+      ![image](https://github.com/user-attachments/assets/bfcbd861-80d5-4589-bbc2-36b8f6d424d6)   
         함수를 사용하여 간결하고 코드의 재사용성을 높여주었다.
 
 
