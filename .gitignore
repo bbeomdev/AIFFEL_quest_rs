@@ -1,3 +1,5 @@
 *.dat
 *.pth
 *.h5
+*.model
+*.npy
