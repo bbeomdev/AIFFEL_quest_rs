@@ -3,5 +3,3 @@
 *.h5
 *.model
 *.npy
-*.memmap
-*.memmap
